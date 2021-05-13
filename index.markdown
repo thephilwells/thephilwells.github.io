@@ -5,8 +5,31 @@
 layout: home
 ---
 
-## We'll be back shortly
+## The Phil Wells Dot Com
 
-Like a fool I kept a bunch of wordpress sites running alongside my main domain stuff at thephilwells.com and, lo and behold, it all got infected with malware. Bluehost pulled the plug on my account and I had to scrap pretty much everything in there. I'm taking this as an opportunity to migrate all my web stuff over to Jekyll on Github pages.
+Welcome to my landing page. This is me, Phil Wells.
 
-brb
+You can email me any time at <philwells@thephilwells.com>
+
+If you're here to check out my books (which are "fun" and non-technical), I love you. Follow these links:
+
+* [Dudesong](https://bookshop.org/books/dudesong/9780615701745)
+* [Try the Veal](https://bookshop.org/books/try-the-veal/9780595407767)
+
+If you want to read my poetry, you can find the archive of my defunct poetry newsletter here:
+
+* [Little Epic archive](https://philwells.substack.com/)
+
+If you're here to determine whether I'm a legitimate software engineer in the world, maybe you could:
+
+* Play [Word Pants](https://thephilwells-wordpants.glitch.me/), a game I built over the course of a few days
+* Look at [my GitHub profile](https://github.com/thephilwells), though of course most of my GitHub use is for work stuff which is hidden from the public
+* Look at [my LinkedIn profile](https://www.linkedin.com/in/thephilwells/)
+
+If you're here for anything else, I don't know what to tell you. I wish I knew. I guess you could
+
+* Find me [on twitter](https://twitter.com/thephilwells)
+
+That's the page for now. Nice and simple, I think. Wouldn't want to overdo it.
+
+Thanks for reading. This is Phil.
