@@ -26,6 +26,9 @@ If you're here to determine whether I'm a legitimate software engineer in the wo
 * Play [Word Pants](https://thephilwells-wordpants.glitch.me/), a game I built over the course of a few days
 * Look at [my GitHub profile](https://github.com/thephilwells), though of course most of my GitHub use is for work stuff which is hidden from the public
 * Look at [my LinkedIn profile](https://www.linkedin.com/in/thephilwells/)
+* [Download my resume as a PDF][1]
+
+[1]:{{site.url}}/download/resume.pdf
 
 If you're here for anything else, I don't know what to tell you. I wish I knew. I guess you could
 
