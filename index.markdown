@@ -6,7 +6,7 @@ layout: home
 title: "Home"
 ---
 
-## The Phil Wells Dot Com
+## The Phil Wells Dot Com!
 
 Welcome to my landing page. This is me, Phil Wells.
 
