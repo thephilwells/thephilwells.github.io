@@ -20,7 +20,7 @@
 
 title: phil wells
 email: philwells5000@gmail.com
-description: Phil Wells is a computer programmer who's built and tested web stuff for Epic Games, New York Times, Kaplan Test Prep, and Rethink. He's also the author of Dudesong, Try The Veal, and lots of rhyming poems.
+description: phil's personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thephilwells.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thephilwells
