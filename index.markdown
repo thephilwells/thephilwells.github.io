@@ -10,7 +10,7 @@ title: "Home"
 
 Welcome to my landing page. This is me, Phil Wells.
 
-You can email me any time at <philwells@thephilwells.com>
+You can email me any time at <philwells5000@gmail.com>
 
 If you're here to check out my books (which are "fun" and non-technical), I love you. Follow these links:
 
@@ -28,10 +28,14 @@ If you're here to determine whether I'm a legitimate software engineer in the wo
 * Look at [my LinkedIn profile](https://www.linkedin.com/in/thephilwells/)
 * [Download my resume as a PDF](https://github.com/thephilwells/thephilwells.github.io/raw/master/download/resume.pdf)
 
-If you're here for anything else, I don't know what to tell you. I wish I knew. I guess you could
-
-* Find me [on twitter](https://twitter.com/thephilwells)
+If you're here for anything else, I don't know what to tell you. I wish I knew. 
 
 That's the page for now. Nice and simple, I think. Wouldn't want to overdo it.
 
 Thanks for reading. This is Phil.
+
+
+
+---
+
+
