@@ -15,9 +15,11 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-        bundler-cache: true
         bundler: '2.6.8'  # Specify the bundler version
-    - name: Configure bundler
-      run: bundle config set --local frozen false
+        bundler-cache: false  # Disable automatic bundler caching
+    - name: Install dependencies
+      run: |
+        bundle config set --local path 'vendor/bundle'
+        bundle install
     - name: Build the site
       run: bundle exec jekyll build --future
