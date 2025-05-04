@@ -17,5 +17,7 @@ jobs:
         ruby-version: '3.2'
         bundler-cache: true
         bundler: '2.6.8'  # Specify the bundler version
+    - name: Configure bundler
+      run: bundle config set --local frozen false
     - name: Build the site
       run: bundle exec jekyll build --future
