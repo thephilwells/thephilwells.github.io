@@ -8,7 +8,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <article class="post">
       <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h2>
       <div class="post-meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">
@@ -17,7 +17,7 @@ permalink: /blog/
         {% if post.categories.size > 0 %}
           in
           {% for category in post.categories %}
-            <a href="{{ site.baseurl }}/categories/#{{ category | slugify }}">{{ category }}</a>
+            <a href="{{ site.url }}{{ site.baseurl }}/categories/#{{ category | slugify }}">{{ category }}</a>
             {% unless forloop.last %}, {% endunless %}
           {% endfor %}
         {% endif %}
@@ -25,7 +25,7 @@ permalink: /blog/
       <div class="post-excerpt">
         {{ post.excerpt | strip_html | truncatewords: 50 }}
       </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
